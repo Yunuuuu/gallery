@@ -292,7 +292,7 @@
   "survminer_stars": {
     "cran": true,
     "stargazers_count": 571,
-    "open_issues_count": 14,
+    "open_issues_count": 10,
     "forks_count": 171,
     "watchers_count": 571
   },
@@ -320,7 +320,7 @@
   "ggpubr_stars": {
     "cran": true,
     "stargazers_count": 1252,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 180,
     "watchers_count": 1252
   },
