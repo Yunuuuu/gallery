@@ -277,10 +277,10 @@
   },
   "ggsci_stars": {
     "cran": true,
-    "stargazers_count": 751,
+    "stargazers_count": 750,
     "open_issues_count": 0,
     "forks_count": 69,
-    "watchers_count": 751
+    "watchers_count": 750
   },
   "ggmosaic_stars": {
     "cran": false,
@@ -291,10 +291,10 @@
   },
   "survminer_stars": {
     "cran": true,
-    "stargazers_count": 576,
+    "stargazers_count": 577,
     "open_issues_count": 8,
     "forks_count": 168,
-    "watchers_count": 576
+    "watchers_count": 577
   },
   "ggeasy_stars": {
     "cran": true,
