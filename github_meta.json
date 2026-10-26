@@ -208,7 +208,7 @@
   "ggthemes_stars": {
     "cran": true,
     "stargazers_count": 1353,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 224,
     "watchers_count": 1353
   },
@@ -284,10 +284,10 @@
   },
   "ggmosaic_stars": {
     "cran": false,
-    "stargazers_count": 171,
+    "stargazers_count": 172,
     "open_issues_count": 32,
     "forks_count": 26,
-    "watchers_count": 171
+    "watchers_count": 172
   },
   "survminer_stars": {
     "cran": true,
@@ -319,10 +319,10 @@
   },
   "ggpubr_stars": {
     "cran": true,
-    "stargazers_count": 1283,
+    "stargazers_count": 1282,
     "open_issues_count": 6,
-    "forks_count": 183,
-    "watchers_count": 1283
+    "forks_count": 182,
+    "watchers_count": 1282
   },
   "ggthemr_stars": {
     "cran": false,
@@ -354,10 +354,10 @@
   },
   "ggridges_stars": {
     "cran": true,
-    "stargazers_count": 425,
+    "stargazers_count": 426,
     "open_issues_count": 47,
     "forks_count": 36,
-    "watchers_count": 425
+    "watchers_count": 426
   },
   "lemon_stars": {
     "cran": true,
@@ -418,7 +418,7 @@
   "ggformula_stars": {
     "cran": true,
     "stargazers_count": 38,
-    "open_issues_count": 13,
+    "open_issues_count": 12,
     "forks_count": 14,
     "watchers_count": 38
   },
@@ -452,10 +452,10 @@
   },
   "esquisse_stars": {
     "cran": true,
-    "stargazers_count": 1865,
+    "stargazers_count": 1866,
     "open_issues_count": 55,
     "forks_count": 243,
-    "watchers_count": 1865
+    "watchers_count": 1866
   },
   "ggdark_stars": {
     "cran": false,
@@ -705,8 +705,8 @@
   "see_stars": {
     "cran": true,
     "stargazers_count": 956,
-    "open_issues_count": 28,
-    "forks_count": 48,
+    "open_issues_count": 29,
+    "forks_count": 49,
     "watchers_count": 956
   },
   "directlabels_stars": {
@@ -914,10 +914,10 @@
   },
   "AMR_stars": {
     "cran": true,
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 30,
     "forks_count": 28,
-    "watchers_count": 115
+    "watchers_count": 116
   },
   "ichimoku_stars": {
     "cran": true,
